@@ -8,7 +8,7 @@ https://github.com/FiremanC4/auto-flags/assets/126985289/fc027d15-ec12-4cf0-b454
 
 
 ## edited
-reactin of bot owner
+reaction of bot owner
 
 ![image](https://github.com/FiremanC4/auto-flags/assets/126985289/f504add1-4e31-4444-a093-d4848bd93181)
 
